@@ -1,4 +1,4 @@
-## Build a Recipe App - Foodie 
+## Build a Recipe App - FoodMood 
 ---
 
 Python & Flask - Data Centric Development  - Milestone Project 4 for Code Institute by Sean Murphy
