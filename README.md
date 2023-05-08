@@ -1,9 +1,5 @@
 ## Build a Recipe App - FoodMood 
----
 
-Python & Flask - Data Centric Development  - Milestone Project 4 for Code Institute by Sean Murphy
-
----
 
 ## Project Summary
 FoodMood is a recipe website that utilizes Flask as its backend and incorporates MongoDB for the database, UIKit for the CSS framework, Vanilla JavaScript, and PyGal for charting using Python. The website's main purpose is to provide users with access to various world cuisines, which they can view, search, filter, edit, delete, create, leave comments on, and more.
